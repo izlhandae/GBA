@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gba_systemcalls.h": "c",
+			"gba_console.h": "c",
+			"gba_video.h": "c",
+			"gba_interrupt.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
